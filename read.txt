@@ -1,2 +1,3 @@
 this fisrt line 1
 .
+Git is free software.
