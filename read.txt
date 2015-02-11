@@ -15,4 +15,9 @@ new line is will add.
 -------------------------------------------
 add new branch --- dev
 
+<<<<<<< HEAD
 master now ,this have a new feature1 now.
+=======
+1111
+new branch feature1
+>>>>>>> feature1
