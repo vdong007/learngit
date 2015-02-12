@@ -21,5 +21,9 @@ master now ,this have a new feature1 now.
 1111
 new branch feature1
 >>>>>>> feature1
+<<<<<<< HEAD
 new too
 tttttttttttt
+=======
+ttttttttttt
+>>>>>>> dev
