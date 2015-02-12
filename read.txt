@@ -1,4 +1,5 @@
-this fisrt line 1
+this fisrt line 1 --- just for bug
+
 .
 Git is free sooooooooooooooo is new adding ,just checking.
 
